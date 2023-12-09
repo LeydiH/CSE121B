@@ -1,0 +1,25 @@
+{
+    "about":"I am a web developer and Finance analyst with a passion for learning and creating new things. I am a self-taught person who is always looking for new challenges and opportunities to grow. I am a very responsible person, I like to work in a team and I am always willing to help others. I am a person who likes to learn new things and I am always looking for new challenges and opportunities to grow. I am a very responsible person, I like to work in a team and I am always willing to help others.",
+    "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Git",
+        "GitHub",
+        "Python",
+        "C#",
+        "SQL",
+        "Certified S/4 HANA HANA SAP Finance & Controlling",
+        "Microsoft Office"
+    ],
+    "education": [
+        "* Web & Computer Programming Certificate - Brigham Young University-Idaho",
+        "* Bachelor's Degree in Finance - Universidad Nacional Autónoma de Nicaragua (UNAN-Managua)",
+        "* Certified S/4 HANA HANA SAP Finance & Controlling consultant - SAP"
+    ],
+    "experience": [
+        "* Financial Advisor, Banco de América Central BAC, Nicaragua.",
+        "* Financial Analyst, Grupo Dences S.A., Nicaragua.",
+        "* Financial Advisor, Financiera Fundeser S.A., Nicaragua."
+    ]
+}
